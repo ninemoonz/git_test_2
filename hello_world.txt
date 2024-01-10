@@ -1,2 +1,6 @@
 Hello World, I'm going to do this.
+<<<<<<< HEAD
 I'm not sure I'm doing this things right
+=======
+This is a workflow I'm trying on my office desk.
+>>>>>>> 4b05197bfc82f8491341454bd40569a586811944
