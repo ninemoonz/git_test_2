@@ -1,3 +1,4 @@
 Hello World, I'm going to do this.
 This is a workflow I'm trying on my office desk.
 Now I came home, pulled the work from the github.
+I'm changing the Git commit message editor to Vim.
